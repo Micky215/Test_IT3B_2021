@@ -15,6 +15,7 @@ namespace snakeIT3B
         public Form1()
         {
             InitializeComponent();
+            var i = 1;
         }
 
     }
