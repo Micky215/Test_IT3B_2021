@@ -1,0 +1,13 @@
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\bin\Debug\netcoreapp3.1\snakeIT3B.exe
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\bin\Debug\netcoreapp3.1\snakeIT3B.deps.json
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\bin\Debug\netcoreapp3.1\snakeIT3B.runtimeconfig.json
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\bin\Debug\netcoreapp3.1\snakeIT3B.runtimeconfig.dev.json
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\bin\Debug\netcoreapp3.1\snakeIT3B.dll
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\bin\Debug\netcoreapp3.1\snakeIT3B.pdb
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\obj\Debug\netcoreapp3.1\snakeIT3B.csprojAssemblyReference.cache
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\obj\Debug\netcoreapp3.1\snakeIT3B.AssemblyInfoInputs.cache
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\obj\Debug\netcoreapp3.1\snakeIT3B.AssemblyInfo.cs
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\obj\Debug\netcoreapp3.1\snakeIT3B.csproj.CoreCompileInputs.cache
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\obj\Debug\netcoreapp3.1\snakeIT3B.dll
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\obj\Debug\netcoreapp3.1\snakeIT3B.pdb
+H:\Mandys\PRG\snakeIT3B\snakeIT3B\obj\Debug\netcoreapp3.1\snakeIT3B.genruntimeconfig.cache
