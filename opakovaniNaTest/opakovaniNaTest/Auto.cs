@@ -35,9 +35,19 @@ namespace opakovaniNaTest
             }
         }
 
-        public void Vylozit(int naklad)
+        public int Vylozit(int naklad)
         {
-
+            if (Naklad < naklad)
+            {
+                var vylozeni = Naklad;
+                this.naklad = 0;
+                return vylozeni;
+            }
+            else
+            {
+                this.naklad -= naklad;
+                return naklad;
+            }
         }
 
 
